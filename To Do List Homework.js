@@ -29,30 +29,30 @@ let listItems = document.querySelectorAll('.main-list-items');
 //     })
 // };
 
-// listItems[0].addEventListener('click', function (event) {
-//     setTimeout(function () {
-//         listItems[0].remove();
-//     }, 1000)
-// });
+listItems[0].addEventListener('click', function (event) {
+    setTimeout(function () {
+        listItems[0].remove();
+    }, 1000)
+});
 
 
-// listItems[1].addEventListener('click', function (event) {
-//     setTimeout(function () {
-//         listItems[1].remove();
-//     }, 1000)
-// });
+listItems[1].addEventListener('click', function (event) {
+    setTimeout(function () {
+        listItems[1].remove();
+    }, 1000)
+});
 
-// listItems[2].addEventListener('click', function (event) {
-//     setTimeout(function () {
-//         listItems[2].remove();
-//     }, 1000)
-// });
+listItems[2].addEventListener('click', function (event) {
+    setTimeout(function () {
+        listItems[2].remove();
+    }, 1000)
+});
 
-// listItems[3].addEventListener('click', function (event) {
-//     setTimeout(function () {
-//         listItems[3].remove();
-//     }, 1000)
-// });
+listItems[3].addEventListener('click', function (event) {
+    setTimeout(function () {
+        listItems[3].remove();
+    }, 1000)
+});
 
 // listItems[4].addEventListener('click', function(event){
 //     setTimeout(function(){
